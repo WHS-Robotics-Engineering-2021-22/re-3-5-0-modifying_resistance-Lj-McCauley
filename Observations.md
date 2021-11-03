@@ -1,0 +1,1 @@
+I noticed that in the circut where the resistors were in series it slowed the same amount if the resistors were added together. when you wire them in parallel the current would be dependent on which resistor it was going through.
